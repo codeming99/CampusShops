@@ -1,0 +1,11 @@
+com/wym/o2o/BaseTest.class
+com/wym/o2o/dao/AreaDaoTest.class
+com/wym/o2o/dao/ShopCategoryDaoTest.class
+com/wym/o2o/service/AreaServiceTest.class
+com/wym/o2o/dao/ProductImgDaoTest.class
+com/wym/o2o/dao/HeadLineDaoTest.class
+com/wym/o2o/dao/ShopDaoTest.class
+com/wym/o2o/service/ProductServiceTest.class
+com/wym/o2o/dao/ProductDaoTest.class
+com/wym/o2o/dao/ProductCategoryDaoTest.class
+com/wym/o2o/service/ShopServiceTest.class

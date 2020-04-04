@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="o2o">
+    <output-path>$PROJECT_DIR$/out/artifacts/o2o</output-path>
+    <root id="root" />
+  </artifact>
+</component>
