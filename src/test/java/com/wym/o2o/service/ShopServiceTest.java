@@ -28,6 +28,7 @@ public class ShopServiceTest extends BaseTest {
 	private ShopService shopService;
 
 	@Test
+	@Ignore
 	public void testGetShopList(){
 		Shop shopCondition = new Shop();
 		ShopCategory sc = new ShopCategory();
@@ -52,7 +53,6 @@ public class ShopServiceTest extends BaseTest {
 	}
 
 	@Test
-	@Ignore
 	public void testAddShop() throws ShopOperationException, FileNotFoundException {
 		Shop shop = new Shop();
 		PersonInfo owner = new PersonInfo();
@@ -60,7 +60,7 @@ public class ShopServiceTest extends BaseTest {
 		ShopCategory shopCategory = new ShopCategory();
 		owner.setUserId(1L);
 		area.setAreaId(2);
-		shopCategory.setShopCategoryId(1L);
+		shopCategory.setShopCategoryId(22L);
 		shop.setOwner(owner);
 		shop.setArea(area);
 		shop.setShopCategory(shopCategory);

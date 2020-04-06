@@ -39,6 +39,11 @@ public class ShopManagementController {
     @Autowired
     private AreaService areaService;
 
+    /**
+     * 注册店铺
+     * @param request
+     * @return
+     */
     @RequestMapping(value = "/registershop",method = RequestMethod.POST)
     @ResponseBody
     private Map<String,Object> registerShop(HttpServletRequest request){

@@ -1,4 +1,6 @@
-
+/**
+ *
+ */
 $(function() {
     // 从URL里获取shopId参数的值
     var shopId = getQueryString('shopId');

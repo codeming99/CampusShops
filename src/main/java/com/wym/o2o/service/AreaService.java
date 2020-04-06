@@ -6,6 +6,8 @@ import com.wym.o2o.entity.Area;
 
 public interface AreaService {
 
+	  String AREALISTKEY = "arealist";
+
 	/**
 	 * 获取区域列表，优先从缓存获取
 	 * 

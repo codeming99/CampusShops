@@ -1,11 +1,11 @@
-/Users/wym/Idea Projects/CampusShops/src/test/java/com/wym/o2o/dao/ProductCategoryDaoTest.java
-/Users/wym/Idea Projects/CampusShops/src/test/java/com/wym/o2o/service/ProductServiceTest.java
-/Users/wym/Idea Projects/CampusShops/src/test/java/com/wym/o2o/service/AreaServiceTest.java
-/Users/wym/Idea Projects/CampusShops/src/test/java/com/wym/o2o/dao/ShopCategoryDaoTest.java
-/Users/wym/Idea Projects/CampusShops/src/test/java/com/wym/o2o/BaseTest.java
-/Users/wym/Idea Projects/CampusShops/src/test/java/com/wym/o2o/service/ShopServiceTest.java
-/Users/wym/Idea Projects/CampusShops/src/test/java/com/wym/o2o/dao/AreaDaoTest.java
-/Users/wym/Idea Projects/CampusShops/src/test/java/com/wym/o2o/dao/HeadLineDaoTest.java
-/Users/wym/Idea Projects/CampusShops/src/test/java/com/wym/o2o/dao/ProductDaoTest.java
-/Users/wym/Idea Projects/CampusShops/src/test/java/com/wym/o2o/dao/ProductImgDaoTest.java
-/Users/wym/Idea Projects/CampusShops/src/test/java/com/wym/o2o/dao/ShopDaoTest.java
+/Users/wym/IdeaProjects/CampusShops/src/test/java/com/wym/o2o/dao/ProductCategoryDaoTest.java
+/Users/wym/IdeaProjects/CampusShops/src/test/java/com/wym/o2o/service/AreaServiceTest.java
+/Users/wym/IdeaProjects/CampusShops/src/test/java/com/wym/o2o/dao/AreaDaoTest.java
+/Users/wym/IdeaProjects/CampusShops/src/test/java/com/wym/o2o/dao/ProductDaoTest.java
+/Users/wym/IdeaProjects/CampusShops/src/test/java/com/wym/o2o/dao/ShopCategoryDaoTest.java
+/Users/wym/IdeaProjects/CampusShops/src/test/java/com/wym/o2o/dao/ShopDaoTest.java
+/Users/wym/IdeaProjects/CampusShops/src/test/java/com/wym/o2o/dao/ProductImgDaoTest.java
+/Users/wym/IdeaProjects/CampusShops/src/test/java/com/wym/o2o/service/ShopServiceTest.java
+/Users/wym/IdeaProjects/CampusShops/src/test/java/com/wym/o2o/service/ProductServiceTest.java
+/Users/wym/IdeaProjects/CampusShops/src/test/java/com/wym/o2o/dao/HeadLineDaoTest.java
+/Users/wym/IdeaProjects/CampusShops/src/test/java/com/wym/o2o/BaseTest.java

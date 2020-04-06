@@ -102,8 +102,8 @@ $(function() {
 							+ '</div>' + '</div>' + '</li>' + '</ul>'
 							+ '</div>' + '</div>' + '<div class="card-footer">'
 							+ '<p class="color-gray">'
-							//+ new Date(item.lastEditTime).Format("yyyy-MM-dd")
-							+ '</p>' + '<span>点击查看</span>' + '</div>'
+							+ new Date(item.lastEditTime).Format("yyyy-MM-dd")
+							+ '更新</p>' + '<span>点击查看</span>' + '</div>'
 							+ '</div>';
 				});
 				// 将卡片集合添加到目标HTML组件里
